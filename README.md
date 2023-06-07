@@ -37,7 +37,11 @@ shryf-samy-614025251" target="_blank"><img src="https://img.shields.io/badge/-sh
 ![CSharp](https://img.shields.io/badge/-%20-05122A?style=flat&logo=Csharp)&nbsp;
 ![C++](https://img.shields.io/badge/-%20-05122A?style=flat&logo=Cplusplus)&nbsp;
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherifsamyshow_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=sherifsamystyle=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=sherifsamy&style=for-the-badge">
+</a>
 
 
 
