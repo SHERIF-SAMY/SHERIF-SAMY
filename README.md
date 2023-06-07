@@ -39,8 +39,8 @@ shryf-samy-614025251" target="_blank"><img src="https://img.shields.io/badge/-sh
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherifsamyshow_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=sherifsamystyle=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=sherifsamy&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=Ahmedfahmy8308style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Ahmedfahmy8308&style=for-the-badge">
 </a>
 
 
