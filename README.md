@@ -15,7 +15,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with network , kali linux , and python , or anything related to syber security.
+- 💬 Ask me about my experience with ML , CV , DS , and python , or anything related to AI.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my inkedin portfolio at www.linkedin.com/in/shryf-samy-614025251 to see some of the projects I've worked on.
 
