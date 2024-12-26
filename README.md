@@ -22,10 +22,8 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/
-shryf-samy-614025251" target="_blank"><img src="https://img.shields.io/badge/-sherif%20samy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="www.linkedin.com/in/
-shryf-samy-614025251" target="_blank"><img src="https://img.shields.io/badge/-sherif%20samy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="www.linkedin.com/in/sherifsamyabdel-karem" target="_blank"><img src="https://img.shields.io/badge/-sherif%20samy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/sherifsamyabdel-karem" target="_blank"><img src="https://img.shields.io/badge/-sherif%20samy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
