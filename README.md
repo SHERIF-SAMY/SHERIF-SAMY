@@ -18,7 +18,7 @@ end-to-end LLM-powered applications including RAG systems, Natural Language to S
 using LangChain, FastAPI, and Ollama. Strong background in deploying production-ready APIs, integrating databases,
 and automating business workflows using n8n. Passionate about building reliable, scalable, and real-world AI systems with
 a strong focus on accuracy, automation, and user experience.
-- 👨‍💻 Check out my inkedin portfolio at www.linkedin.com/in/shryf-samy-614025251 to see some of the projects I've worked on.
+- 👨‍💻 Check out my inkedin portfolio at [linkedin/SherifSamy](https://www.linkedin.com/in/sherifsamyabdel-karem/) to see some of the projects I've worked on.
 
 
 ### Connect with Me :
