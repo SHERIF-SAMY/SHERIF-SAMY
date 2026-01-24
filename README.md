@@ -13,10 +13,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ai%20engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a AI Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, DS, ML, NLP, LLMs or anything related to AI.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🏢 I'm Sherif Samy, Junior AI Engineer specialized in NLP, Large Language Models (LLMs), and AI Automation. Experienced in building
+end-to-end LLM-powered applications including RAG systems, Natural Language to SQL solutions, and conversational AI
+using LangChain, FastAPI, and Ollama. Strong background in deploying production-ready APIs, integrating databases,
+and automating business workflows using n8n. Passionate about building reliable, scalable, and real-world AI systems with
+a strong focus on accuracy, automation, and user experience.
 - 👨‍💻 Check out my inkedin portfolio at www.linkedin.com/in/shryf-samy-614025251 to see some of the projects I've worked on.
 
 
