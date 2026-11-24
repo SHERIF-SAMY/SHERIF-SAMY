@@ -1,14 +1,19 @@
 <!-- ============ HEADER ============ -->
+<!-- Animated header; visitors with "reduce motion" get the static copies in /assets -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.svg">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Sherif%20Samy&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Vision-Language%20Models&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Sherif Samy · AI Engineer"/>
+  </picture>
 </p>
 
-<h1 align="center">Sherif Samy</h1>
-
-<h3 align="center">AI Engineer · LLMs · RAG · AI Agents · Vision-Language Models</h3>
-
 <p align="center">
-  <i>Building LLM apps that go past the demo stage · Co-Founder & AI Engineer @ Scoutriq ⚽</i>
+  <a href="https://github.com/SHERIF-SAMY">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/tagline-static.svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+LLM+apps+that+go+past+the+demo+stage;RAG+%7C+AI+Agents+%7C+Text-to-SQL+%7C+Fine-tuning;Co-Founder+%26+AI+Engineer+%40+Scoutriq+%E2%9A%BD;Arabic+%2F+English+GenAI+systems" alt="Building LLM apps that go past the demo stage"/>
+    </picture>
+  </a>
 </p>
 
 <p align="center">

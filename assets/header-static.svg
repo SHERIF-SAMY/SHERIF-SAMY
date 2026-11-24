@@ -1,0 +1,49 @@
+
+      <svg
+        width="854"
+        height="190"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative"
+        viewBox="0 0 854 190"
+      >
+        <style>
+      .text {   font-size: 52px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 17px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+       
+    </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#0f2027"/><stop offset="50%" stop-color="#203a43"/><stop offset="100%" stop-color="#2c5364"/>
+              </linearGradient>
+            </defs>
+        
+      <g transform="translate(427, 95) scale(1, 1) translate(-427, -95)">
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcmod="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z;M0 0L 0 135Q 213.5 150 427 130T 854 120L 854 0 Z;M0 0L 0 155Q 213.5 125 427 155T 854 120L 854 0 Z;M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 110 427 110T 854 130L 854 0 Z;M0 0L 0 135Q 213.5 115 427 140T 854 155L 854 0 Z;M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Sherif Samy</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">AI Engineer • LLMs • RAG • AI Agents • Vision-Language Models</text>
+      </svg>
+    
